@@ -1,0 +1,52 @@
+{
+  "term": "Summer",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "79722861-3f0c-f644-f572-5a4f0155127d",
+  "instructors": {
+    "content": [
+      "b2a88038-bc24-8bdf-6975-66bf61399807"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f89e7ab1-8035-0867-739e-28c2282599c0",
+    "website": "15-511-financial-accounting-summer-2004"
+  },
+  "course_title": "Financial Accounting",
+  "course_description": "This six-week summer course teaches basic concepts of corporate financial accounting and reporting. This information is widely used in making investment decisions, corporate and managerial performance assessment, and valuation of firms.\u00a0Students perform economics-based analysis of accounting information from the viewpoint of the users of accounting information (especially senior managers) rather than the preparer (the accountant). This course is restricted to MIT Sloan Fellows in Innovation and Global Leadership.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.511",
+  "course_image_thumbnail": {
+    "content": "33f84606-391c-e090-758f-e5e2f5f35e0f",
+    "website": "15-511-financial-accounting-summer-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Exams with Solutions"
+  ],
+  "site_uid": "b3e97a21-7994-4625-b00d-0c29e974dcee",
+  "site_short_id": "15.511-summer-2004",
+  "site_url_path": "courses/15-511-financial-accounting-summer-2004",
+  "title": "Course Metadata"
+}
